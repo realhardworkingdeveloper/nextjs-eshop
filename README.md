@@ -1,2 +1,1 @@
-# application-eshop
-Next Ecommerce
+# Ecommerce

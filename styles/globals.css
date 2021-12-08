@@ -1,0 +1,19 @@
+/*GLOBAL CSS STYLE*/
+
+/*HTML/BODY*/
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+/*LINKS*/
+a {
+  color: inherit;
+  text-decoration: none;
+}
+/*GENERAL*/
+* {
+  box-sizing: border-box;
+}

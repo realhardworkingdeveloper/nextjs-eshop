@@ -1,2 +1,2 @@
 # Ecommerce
-NextJS virtual store example.
+NextJS virtual store.
